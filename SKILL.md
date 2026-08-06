@@ -1,5 +1,6 @@
 ---
 name: pair_correlation
+license: GPL-3.0-only
 description: |
   Relationship between TWO symbols: return correlation (full + recent 20/60d), hedge beta (A on B), latest log-spread z-score for pairs / mean-reversion. Auto-routes each leg A-share / HK / US.
   Use when the user asks 相关性 / 对冲比例 / 配对交易 / 价差 between two names, or "do X and Y move together".
