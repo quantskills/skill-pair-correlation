@@ -1,5 +1,5 @@
 ---
-name: pair_correlation
+name: pair-correlation
 license: GPL-3.0-only
 description: |
   Relationship between TWO symbols: return correlation (full + recent 20/60d), hedge beta (A on B), latest log-spread z-score for pairs / mean-reversion. Auto-routes each leg A-share / HK / US.
