@@ -71,3 +71,7 @@ redundant in my book?" question, but they're error-prone to hand-roll — the cl
 is comparing two return series that were never aligned on the same dates. This skill does
 the inner-join first and returns the hedge ratio plus a ready-to-read spread z-score, so
 the agent reasons about the relationship, not the plumbing.
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.

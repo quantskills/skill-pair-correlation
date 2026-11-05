@@ -114,3 +114,6 @@ This Skill supports Claude Code, Codex, Cursor, Hermes and OpenClaw. Claude Code
 ## License
 
 GPL-3.0-only. This skill is original to the QuantSkills community; correlation and hedge beta are standard quant methods. Full text in [`LICENSE`](./LICENSE).
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.
